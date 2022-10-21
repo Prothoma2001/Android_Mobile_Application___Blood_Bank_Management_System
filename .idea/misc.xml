@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/activity_map2.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/app_bar_map2.xml" value="0.18645833333333334" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/content_map2.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/fragment_aboutus.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/fragment_bloodbank.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/fragment_contactus.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/fragment_donate.xml" value="0.146875" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/fragment_donateform.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/fragment_donatefund.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/fragment_donorlist.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/fragment_login.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/fragment_logout.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/fragment_map.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/fragment_profile.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/fragment_receive.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/fragment_receivingform.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/fragment_register.xml" value="0.36271529888551163" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/fragment_settings.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/fragment_userhome.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/layout/nav_header_map2.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/menu/activity_map2_drawer.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/LifeStringFinal/app/src/main/res/menu/map2.xml" value="0.18645833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

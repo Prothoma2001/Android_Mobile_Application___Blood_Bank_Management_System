@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Life String</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_login">Log In</string>
+    <string name="menu_register">Registration</string>
+    <string name="menu_donate">Donate Blood</string>
+    <string name="menu_receive">Receive Blood</string>
+    <string name="menu_contact">Contact Us</string>
+    <string name="menu_aboutus">About Us</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_bloodbank">Blood Bank</string>
+    <string name="menu_donorlist">Donor List</string>
+    <string name="menu_donatefund">Donate Fund</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_receivingform">Receiving form</string>
+    <string name="menu_donateform">Donation form</string>
+    <string name="menu_logout">Log Out</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

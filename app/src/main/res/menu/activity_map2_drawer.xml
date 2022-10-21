@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_baseline_account_circle_24"
+            android:title="@string/menu_profile" />
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/ic_baseline_login_24"
+            android:title="@string/menu_login" />
+        <item
+            android:id="@+id/nav_register"
+            android:icon="@drawable/ic_baseline_register"
+            android:title="@string/menu_register" />
+
+        <item
+            android:id="@+id/donate"
+            android:icon="@drawable/ic_baseline_donate"
+            android:title="Donate">
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item
+                        android:id="@+id/nav_donate"
+                        android:icon="@drawable/ic_baseline_donate"
+                        android:title="@string/menu_donate" />
+                    <item
+                        android:id="@+id/nav_donateform"
+                        android:icon="@drawable/ic_baseline_format_align_left_24"
+                        android:title="@string/menu_donateform" />
+                    <item
+                        android:id="@+id/nav_donatefund"
+                        android:icon="@drawable/ic_baseline_monetization_on_24"
+                        android:title="@string/menu_donatefund" />
+                    <item
+                        android:id="@+id/nav_map"
+                        android:icon="@drawable/ic_baseline_map_24"
+                        android:title="@string/menu_map" />
+                </group>
+            </menu>
+        </item>
+
+
+
+        <item
+            android:id="@+id/receive"
+            android:icon="@drawable/ic_receive"
+            android:title="@string/menu_receive">
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item
+                        android:id="@+id/nav_receive"
+                        android:icon="@drawable/ic_receive"
+                        android:title="@string/menu_receive" />
+                    <item
+                        android:id="@+id/nav_bloodbank"
+                        android:icon="@drawable/ic_baseline_bloodtype_24"
+                        android:title="@string/menu_bloodbank" />
+                    <item
+                        android:id="@+id/nav_donorlist"
+                        android:icon="@drawable/ic_baseline_list_24"
+                        android:title="@string/menu_donorlist" />
+                    <item
+                        android:id="@+id/nav_receiveform"
+                        android:icon="@drawable/ic_baseline_format_align_left_24"
+                        android:title="@string/menu_receivingform" />
+                </group>
+            </menu>
+        </item>
+
+
+
+        <item
+            android:id="@+id/contact"
+            android:icon="@drawable/ic_baseline_contactus"
+            android:title="@string/menu_contact">
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item
+                        android:id="@+id/nav_contact"
+                        android:icon="@drawable/ic_baseline_contactus"
+                        android:title="@string/menu_contact" />
+                    <item
+                        android:id="@+id/nav_aboutus"
+                        android:icon="@drawable/ic_baseline_aboutus"
+                        android:title="@string/menu_aboutus" />
+                </group>
+            </menu>
+        </item>
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="@string/menu_settings" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_baseline_arrow_back_24"
+            android:title="@string/menu_logout" />
+
+    </group>
+</menu>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.lifestring.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.example.lifestring.ui.profile.ProfileFragment"
+        android:label="@string/menu_profile"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/nav_login"
+        android:name="com.example.lifestring.ui.login.LoginFragment"
+        android:label="@string/menu_login"
+        tools:layout="@layout/fragment_login" />
+
+    <fragment
+        android:id="@+id/nav_register"
+        android:name="com.example.lifestring.ui.register.RegisterFragment"
+        android:label="@string/menu_register"
+        tools:layout="@layout/fragment_register" />
+
+
+
+
+    <fragment
+        android:id="@+id/nav_donate"
+        android:name="com.example.lifestring.ui.donate.DonateFragment"
+        android:label="@string/menu_donate"
+        tools:layout="@layout/fragment_donate" />
+    <fragment
+        android:id="@+id/nav_donateform"
+        android:name="com.example.lifestring.ui.donateform.DonateFormFragment"
+        android:label="@string/menu_donateform"
+        tools:layout="@layout/fragment_donateform" />
+    <fragment
+        android:id="@+id/nav_donatefund"
+        android:name="com.example.lifestring.ui.donatefund.DonateFundFragment"
+        android:label="@string/menu_donatefund"
+        tools:layout="@layout/fragment_donatefund" />
+    <fragment
+        android:id="@+id/nav_map"
+        android:name="com.example.lifestring.ui.map.MapFragment"
+        android:label="@string/menu_map"
+        tools:layout="@layout/fragment_map" />
+
+
+
+
+
+    <fragment
+        android:id="@+id/nav_receive"
+        android:name="com.example.lifestring.ui.receive.ReceiveFragment"
+        android:label="@string/menu_receive"
+        tools:layout="@layout/fragment_receive" />
+    <fragment
+        android:id="@+id/nav_bloodbank"
+        android:name="com.example.lifestring.ui.bloodbank.BloodBankFragment"
+        android:label="@string/menu_bloodbank"
+        tools:layout="@layout/fragment_bloodbank" />
+    <fragment
+        android:id="@+id/nav_donorlist"
+        android:name="com.example.lifestring.ui.donorlist.DonorListFragment"
+        android:label="@string/menu_donorlist"
+        tools:layout="@layout/fragment_donorlist" />
+    <fragment
+        android:id="@+id/nav_receiveform"
+        android:name="com.example.lifestring.ui.receivingform.ReceivingFormFragment"
+        android:label="@string/menu_receivingform"
+        tools:layout="@layout/fragment_receivingform" />
+
+
+
+
+    <fragment
+        android:id="@+id/nav_contact"
+        android:name="com.example.lifestring.ui.contactus.ContactUsFragment"
+        android:label="@string/menu_contact"
+        tools:layout="@layout/fragment_contactus" />
+    <fragment
+        android:id="@+id/nav_aboutus"
+        android:name="com.example.lifestring.ui.aboutus.AboutUsFragment"
+        android:label="@string/menu_aboutus"
+        tools:layout="@layout/fragment_aboutus" />
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.example.lifestring.ui.settings.SettingsFragment"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/nav_logout"
+        android:name="com.example.lifestring.ui.logout.LogoutFragment"
+        android:label="@string/menu_logout"
+        tools:layout="@layout/fragment_logout" />
+
+    <fragment
+        android:id="@+id/nav_userhome"
+        android:name="com.example.lifestring.ui.userhome.UserHomeFragment"
+
+        tools:layout="@layout/fragment_userhome" />
+
+
+
+
+</navigation>
